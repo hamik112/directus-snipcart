@@ -1,0 +1,26 @@
+{
+  "name": "lookbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "handlebars-loader": "^1.4.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snipcart/directus-snipcart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snipcart/directus-snipcart/issues"
+  },
+  "homepage": "https://github.com/snipcart/directus-snipcart#readme"
+}
