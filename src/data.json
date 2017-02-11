@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "second test product",
+    "description": "this is a description",
+    "price": 2337,
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/a7/a8/ef/a7a8ef7acaf0361e5d6423dd4b5ec358.jpg",
+    "category": "men"
+  },
+  {
+    "id": 2,
+    "name": "first test product",
+    "description": "this is a description",
+    "price": 1337,
+    "image": "http://files.ctctcdn.com/e8bc7db9001/dd503242-f4ba-4b10-bd8e-cfe5c8c652c9.jpg",
+    "category": "men"
+  },
+  {
+    "id": 3,
+    "name": "third test product",
+    "description": "this is a description",
+    "price": 3337,
+    "image": "http://img2.newchic.com/thumb/large/oaupload/newchic/images/D5/4E/605f9861-2767-39bc-21c2-548209c95ba2.jpg",
+    "category": "men"
+  },
+  {
+    "id": 4,
+    "name": "forth test product",
+    "description": "this is a description",
+    "price": 4337,
+    "image": "http://gloimg.rosegal.com/rosegal/pdm-product-pic/Clothing/2016/10/20/source-img/20161020173839_11735.jpg",
+    "category": "women"
+  },
+  {
+    "id": 5,
+    "name": "fifth test product",
+    "description": "this is a description",
+    "price": 5337,
+    "image": "http://www.clothes-fashion.com/wp-content/uploads/2010/09/14/Bottega-Veneta-Wool-blend-carrot-leg-pants.jpg",
+    "category": "women"
+  },
+  {
+    "id": 6,
+    "name": "sixth test product",
+    "description": "this is a description",
+    "price": 6337,
+    "image": "https://ae01.alicdn.com/kf/HTB1Ve6uKVXXXXXaXXXXq6xXFXXX9/2016-Spring-women-flat-Shoes-Summer-Casual-shoes-ballet-flats-slip-on-Women-shoes-woman-Loafers.jpg_640x640.jpg",
+    "category": "women"
+  }
+]

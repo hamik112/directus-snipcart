@@ -1,0 +1,22 @@
+<div class="product">
+  <img src="{{ image }}" alt="{{ name }}" class="thumbnail"/>
+  <div>
+    <div class="product-description">
+      <h1 class="product-title">{{ name }}</h1>
+      <p>{{ description }}</p>
+
+      <p class="product-price">ONLY {{ price }} $</p>
+
+      <a class="product-button snipcart-add-item"
+        href="#"
+        data-item-name="{{ name }}"
+        data-item-id="{{ id }}"
+        data-item-image="{{ image }}"
+        data-item-description="{{ description }}"
+        data-item-url="/"
+        data-item-price="{{ price }}">
+        BUY IT NOW
+      </a>
+    </div>
+  </div>
+</div>
